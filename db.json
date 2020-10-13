@@ -1,0 +1,26 @@
+{
+  "data": {
+    "Enteries": {
+      "MainEntery1": [
+        {
+          "SubEntery1": "sub1",
+          "Value": "val"
+        },
+        {
+          "SubEntery2": "sub2",
+          "Value": "val2"
+        }
+      ],
+      "MainEntery2": [
+        {
+          "SubEntery1": "sub3",
+          "Value": "val3"
+        },
+        {
+          "SubEntery2": "sub4",
+          "Value": "val4"
+        }
+      ]
+    }
+  }
+}
