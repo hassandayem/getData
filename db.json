@@ -1,24 +1,28 @@
 {
   "data": {
     "Enteries": {
-      "MainEntery1": [
+      "Brut satislar": [
         {
-          "SubEntery1": "sub1",
-          "Value": "val"
+          "SubEntery": "Yurtici satislar",
+          "Value": "100"
         },
         {
-          "SubEntery2": "sub2",
-          "Value": "val2"
+          "SubEntery": "Yurtdisi satislar",
+          "Value": "25"
         }
       ],
-      "MainEntery2": [
+      "Satis indirimleri": [
         {
-          "SubEntery1": "sub3",
-          "Value": "val3"
+          "SubEntery": "Satistan iadeler",
+          "Value": "5"
         },
         {
-          "SubEntery2": "sub4",
-          "Value": "val4"
+          "SubEntery": "Satis iskontolari",
+          "Value": "0"
+        },
+        {
+          "SubEntery": "Diger indirimler",
+          "Value": "20"
         }
       ]
     }
